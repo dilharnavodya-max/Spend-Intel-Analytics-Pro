@@ -1,1 +1,1 @@
-# Spend-Intel-Analytics-Pro
+# Spend-Intel-Analytics
